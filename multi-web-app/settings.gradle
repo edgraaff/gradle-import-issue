@@ -1,0 +1,6 @@
+include(
+  'web-app-1',
+  'web-app-2'
+)
+
+includeBuild '../core-module'
